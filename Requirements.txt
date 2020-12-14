@@ -1,0 +1,3 @@
+Webbrowser
+PyPDF2
+os
