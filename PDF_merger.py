@@ -1,3 +1,5 @@
+''' Merger of five PDF's '''
+
 from PyPDF2 import PdfFileMerger
 
 pdfs = ['1.pdf','2.pdf', '3.pdf', '4.pdf', '5.pdf']
